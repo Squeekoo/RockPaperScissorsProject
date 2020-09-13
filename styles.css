@@ -73,7 +73,7 @@ h1, h2 {
     cursor: pointer;
     /* font-family: 'Franklin Gothic Medium'; */
     font-size: 1.1rem;
-    transition: 300ms;
+    /* transition: 300ms; */
 }
 
 #restart:hover {
